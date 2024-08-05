@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fit-peodashboard/static/css/main.5f1b40fd.css",
+    "main.js": "/fit-peodashboard/static/js/main.201d158e.js",
+    "static/js/453.19f92037.chunk.js": "/fit-peodashboard/static/js/453.19f92037.chunk.js",
+    "index.html": "/fit-peodashboard/index.html",
+    "main.5f1b40fd.css.map": "/fit-peodashboard/static/css/main.5f1b40fd.css.map",
+    "main.201d158e.js.map": "/fit-peodashboard/static/js/main.201d158e.js.map",
+    "453.19f92037.chunk.js.map": "/fit-peodashboard/static/js/453.19f92037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1b40fd.css",
+    "static/js/main.201d158e.js"
+  ]
+}
