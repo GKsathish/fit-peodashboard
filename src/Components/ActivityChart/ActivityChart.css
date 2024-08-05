@@ -1,0 +1,19 @@
+/* src/components/ActivityChart.css */
+.activity-chart {
+  background-color: #2d2d3d;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  flex: 1;
+  text-align: center;
+}
+
+.chart-placeholder {
+  height: 200px;
+  background-color: #3d3d4d;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}

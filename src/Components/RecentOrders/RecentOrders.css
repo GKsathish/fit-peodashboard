@@ -1,0 +1,38 @@
+/* src/components/RecentOrders.css */
+.recent-orders {
+  background-color: #2d2d3d;
+  padding: 20px;
+  border-radius: 10px;
+  flex: 1;
+  min-width: 300px;
+  overflow-x: auto;
+}
+
+.recent-orders table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.recent-orders th, .recent-orders td {
+  padding: 10px;
+  text-align: left;
+}
+
+.recent-orders th {
+  background-color: #3d3d4d;
+}
+
+.recent-orders tr:nth-child(even) {
+  background-color: #3d3d4d;
+}
+
+@media (max-width: 768px) {
+  .recent-orders table {
+    font-size: 12px;
+  }
+  .recent-orders {
+  
+    min-width: 200px;
+    
+  }
+}

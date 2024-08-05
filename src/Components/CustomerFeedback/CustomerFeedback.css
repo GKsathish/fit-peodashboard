@@ -1,0 +1,35 @@
+/* src/components/CustomerFeedback.css */
+.customer-feedback {
+  background-color: #2d2d3d;
+  padding: 20px;
+  border-radius: 10px;
+  flex: 1;
+  min-width: 300px;
+  overflow-x: auto;
+}
+
+.feedback {
+  margin-bottom: 20px;
+}
+
+.feedback .customer {
+  font-weight: bold;
+}
+
+.feedback .rating {
+  color: #f5c518;
+}
+
+.feedback p {
+  margin: 5px 0 0;
+}
+
+@media (max-width: 768px) {
+  .feedback {
+    font-size: 12px;
+  }
+  .customer-feedback {
+
+    min-width: 200px;
+  }
+}
